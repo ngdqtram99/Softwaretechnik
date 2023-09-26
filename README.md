@@ -10,3 +10,21 @@ Alle Projekte im Modul 'Softwaretechnik', B. Sc. Bioinformatik, THM
 - Es wurde eine umfassende Analyse des frag.jetzt-Codes mithilfe von SonarQube durchgeführt, und ein CNES-Bericht wurde erstellt.
 - Es erfolgte die Behebung von vier Code-Smells der Kategorien "Blocker", "Critical" sowie zwei "Major Bugs" und die anschließende erneute Analyse des Codes mit SonarQube sowie die Erstellung eines CNES-Berichts.
 - Abschließend wurde ein QA-Bericht erstellt.
+## Tools
+Docker
+
+Word
+
+Java
+## Resources
+[frag.jetzt-Webseite](https://frag.jetzt/home)
+
+[UEQ-Fragebogen](https://www.ueq-online.org/)
+
+[SonarQube](https://git.thm.de/arsnova/frag.jetzt-backend/-/tree/staging/analysis)
+
+[frag.jetzt-Frontend und Backend-Services](https://git.thm.de/arsnova/frag.jetzt/-/blob/staging/README.md)
+
+[Durchführung der Code-Analyse](https://git.thm.de/arsnova/frag.jetzt/-/tree/staging#code-style-analysis)
+
+
